@@ -1,0 +1,8 @@
+{
+  "task": "defect",
+  "test_images": 2698,
+  "accuracy": 0.9936990363232023,
+  "macro_precision": 0.9936290229973589,
+  "macro_recall": 0.993526458688961,
+  "macro_f1": 0.9935775963889137
+}

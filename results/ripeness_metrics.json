@@ -1,0 +1,8 @@
+{
+  "task": "ripeness",
+  "test_images": 2053,
+  "accuracy": 0.990745250852411,
+  "macro_precision": 0.9919695688926458,
+  "macro_recall": 0.9893138357705287,
+  "macro_f1": 0.9905514835989868
+}

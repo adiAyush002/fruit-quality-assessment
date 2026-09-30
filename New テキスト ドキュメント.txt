@@ -1,0 +1,7 @@
+cd /mnt/d/Engineering/DL/fruit-quality-assessment/fruit-quality-assessment
+source ~/fruit-quality-assessment/venv/bin/activate   # or ~/fruit-venv/bin/activate
+source ~/tf_gpu_env.sh
+
+streamlit run app.py
+
+http://localhost:8501

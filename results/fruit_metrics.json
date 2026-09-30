@@ -1,0 +1,8 @@
+{
+  "task": "fruit",
+  "test_images": 3587,
+  "accuracy": 0.9846668525229997,
+  "macro_precision": 0.9835697541669751,
+  "macro_recall": 0.9848802850635677,
+  "macro_f1": 0.9841602962292191
+}
